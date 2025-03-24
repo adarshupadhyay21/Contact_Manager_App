@@ -39,7 +39,7 @@ Thunder Client– API testing
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Contact_Manager_App.git
+git clone https://github.com/adarshupadhyay21/Contact_Manager_App.git
 ```
 cd Contact_Manager_App
 
